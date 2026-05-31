@@ -1,4 +1,4 @@
-# Handwriting Analysis System
+# ml-based-personality-trait-detection-using-handwriting-analysis
 
 A Tkinter-based desktop application that analyzes a handwriting image and predicts a personality trait using a trained TensorFlow/Keras model.
 
