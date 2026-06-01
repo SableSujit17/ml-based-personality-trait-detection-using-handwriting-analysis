@@ -15,23 +15,23 @@ A Tkinter-based desktop application that analyzes a handwriting image and predic
 
 ### Home Screen
 
-![Home screen](docs/screenshots/home-screen.jpg)
+![Home screen](c:\Users\pc\OneDrive\Pictures\Screenshots\Screenshot 2026-05-31 233720.png)
 
 ### Registration Screen
 
-![Registration screen](docs/screenshots/registration-screen.jpg)
+![Registration screen](c:\Users\pc\OneDrive\Pictures\Screenshots\Screenshot 2026-05-31 233847.png)
 
 ### Login Screen
 
-![Login screen](docs/screenshots/login-screen.jpg)
+![Login screen](c:\Users\pc\OneDrive\Pictures\Screenshots\Screenshot 2026-05-31 234010.png)
 
 ### Upload Preview
 
-![Upload preview](docs/screenshots/upload-preview.jpg)
+![Upload preview](c:\Users\pc\OneDrive\Pictures\Screenshots\Screenshot 2026-05-31 234316.png)
 
 ### Analysis Result
 
-![Analysis result](docs/screenshots/analysis-result.jpg)
+![Analysis result](c:\Users\pc\OneDrive\Pictures\Screenshots\Screenshot 2026-05-31 234356.png)
 
 ## Project Structure
 
