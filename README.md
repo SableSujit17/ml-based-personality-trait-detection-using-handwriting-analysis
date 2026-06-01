@@ -15,23 +15,23 @@ A Tkinter-based desktop application that analyzes a handwriting image and predic
 
 ### Home Screen
 
-![Home screen](https://drive.google.com/file/d/1KRQfKoM_OEvMBSOl9HMd0H-18uRfi6yP/view?usp=drive_link)
+![Home screen](https://drive.google.com/file/d/1KRQfKoM_OEvMBSOl9HMd0H-18uRfi6yP)
 
 ### Registration Screen
 
-![Registration screen](https://drive.google.com/file/d/1xZvhfNvmG4_X-TQGeuJ069y9C-hk76EK/view?usp=drive_link)
+![Registration screen](https://drive.google.com/file/d/1xZvhfNvmG4_X-TQGeuJ069y9C-hk76EK)
 
 ### Login Screen
 
-![Login screen](https://drive.google.com/file/d/1J_zkqEoPrhafWTe7gcVNNordZ3kpyJp0/view?usp=drive_link)
+![Login screen](https://drive.google.com/file/d/1J_zkqEoPrhafWTe7gcVNNordZ3kpyJp0)
 
 ### Upload Preview
 
-![Upload preview](https://drive.google.com/file/d/1dy4IvxsLPfNJAuh5CAmqpvCP1rnW0uG0/view?usp=drive_link)
+![Upload preview](https://drive.google.com/file/d/1dy4IvxsLPfNJAuh5CAmqpvCP1rnW0uG0)
 
 ### Analysis Result
 
-![Analysis result](https://drive.google.com/file/d/1XWvU3GmJA5xC_1E-S74np3X809tFsaeq/view?usp=drive_link)
+![Analysis result](https://drive.google.com/file/d/1XWvU3GmJA5xC_1E-S74np3X809tFsaeq/)
 
 ## Project Structure
 
