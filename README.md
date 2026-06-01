@@ -15,23 +15,23 @@ A Tkinter-based desktop application that analyzes a handwriting image and predic
 
 ### Home Screen
 
-![Home screen](c:\Users\pc\OneDrive\Pictures\Screenshots\Screenshot 2026-05-31 233720.png)
+![Home screen](https://drive.google.com/file/d/1KRQfKoM_OEvMBSOl9HMd0H-18uRfi6yP/view)
 
 ### Registration Screen
 
-![Registration screen](c:\Users\pc\OneDrive\Pictures\Screenshots\Screenshot 2026-05-31 233847.png)
+![Registration screen](https://drive.google.com/file/d/1xZvhfNvmG4_X-TQGeuJ069y9C-hk76EK/viewg)
 
 ### Login Screen
 
-![Login screen](c:\Users\pc\OneDrive\Pictures\Screenshots\Screenshot 2026-05-31 234010.png)
+![Login screen](https://drive.google.com/file/d/1J_zkqEoPrhafWTe7gcVNNordZ3kpyJp0/view)
 
 ### Upload Preview
 
-![Upload preview](c:\Users\pc\OneDrive\Pictures\Screenshots\Screenshot 2026-05-31 234316.png)
+![Upload preview](https://drive.google.com/file/d/1dy4IvxsLPfNJAuh5CAmqpvCP1rnW0uG0/view)
 
 ### Analysis Result
 
-![Analysis result](c:\Users\pc\OneDrive\Pictures\Screenshots\Screenshot 2026-05-31 234356.png)
+![Analysis result](https://drive.google.com/file/d/1XWvU3GmJA5xC_1E-S74np3X809tFsaeq/view)
 
 ## Project Structure
 
